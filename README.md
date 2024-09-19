@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daan Koster</h1>
 <h3 align="center">A IT student from The Netherlands</h3>
 
-- 🔭 I’m currently working on [WalibiParks](WalibiParks.nl)
+- 🔭 I’m currently working on [WalibiParks](https://www.walibiparks.nl)
 
 - 🌱 I’m currently learning **Writing my own framework for Spigot**
 
-- 🤝 I’m looking for help with [WalibiParks](WalibiParks.nl)
+- 🤝 I’m looking for help with [WalibiParks](https://www.walibiparks.nl)
 
 - 👨‍💻 All of my projects are available at [daankoster.nl](daankoster.nl)
 
