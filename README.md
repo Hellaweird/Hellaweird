@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daan Koster</h1>
 <h3 align="center">A IT student from The Netherlands</h3>
 
-- 🔭 I’m currently working on [WalibiParks](https://www.walibiparks.nl)
+- 🔭 I’m currently working on programming rollercoasters at: [WalibiParks](https://www.walibiparks.nl)
 
-- 🌱 I’m currently learning **Writing my own framework for Spigot**
+- 🌱 I’m currently learning **to write my own framework for PaperMC**
 
-- 🤝 I’m looking for help with [WalibiParks](https://www.walibiparks.nl)
+- 🤝 I’m looking for help with my server: [WalibiParks](https://www.walibiparks.nl)
 
 - 👨‍💻 All of my projects are available at [daankoster.nl](daankoster.nl)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, PaperMC plugins, Frontend or Backend**
 
-- ⚡ Fun fact **I love Minecraft**
+- ⚡ Fun fact **I love creating the unthinkable in Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
