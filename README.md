@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daan Koster</h1>
 <h3 align="center">A IT student from The Netherlands</h3>
 
-- 🔭 I’m currently working on programming rollercoasters at: [WalibiParks](https://www.walibiparks.nl)
+- 🔭 I’m currently working on a open-source ERP at: [LendAV](https://www.daankoster.nl)
 
-- 🌱 I’m currently learning **to write my own framework for PaperMC**
-
-- 🤝 I’m looking for help with my server: [WalibiParks](https://www.walibiparks.nl)
+- 🤝 I’m looking for help with my application: [LendAV](https://www.daankoster.nl)
 
 - 👨‍💻 All of my projects are available at [daankoster.nl](daankoster.nl)
 
