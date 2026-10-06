@@ -4,7 +4,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://daankoster.nl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=IT+Student+%26+Developer;Building+LendAV+Open-Source+ERP;Minecraft+%26+PaperMC+Plugin+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=IT+Student+%26+Developer;Building+Rentorix+Open-Source+ERP;Minecraft+%26+PaperMC+Plugin+Dev" alt="Typing SVG" />
   </a>
 </div>
 
