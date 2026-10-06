@@ -12,8 +12,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on an open-source ERP: **[LendAV](https://daankoster.nl)**
-- 🤝 I’m looking for help with my application: **[LendAV](https://daankoster.nl)**
+- 🔭 I’m currently working on an open-source ERP: **[Rentorix](https://github.com/Rentorix)**
+- 🤝 I’m looking for help with my application: **[Rentorix](https://github.com/Rentorix)**
 - 👨‍💻 All of my projects are available at **[daankoster.nl](https://daankoster.nl)**
 - 💬 Ask me about **Java, PaperMC plugins, Frontend, or Backend**
 - ⚡ Fun fact: **I love creating the unthinkable in Minecraft**
